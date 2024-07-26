@@ -10,8 +10,8 @@ let j = 20;
 let i = 1;
 while (i <= j) {
   if (i % 2) {
-    sum += i
+    sum += i;
   }  
   i++;
 }
-document.write(sum)
+document.write(sum);
